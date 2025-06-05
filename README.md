@@ -1,17 +1,17 @@
-# 👋 Salut, moi c'est Faniriniaina Rakotomahenina
+# 👋 Hi, I'm Faniriniaina Rakotomahenina
 
-🎯 Développeur Full-Stack passionné par la création d’applications mobiles et web bien structurées, lisibles et maintenables.
-
----
-
-## 💡 À propos
-
-Je m’efforce de produire du code **propre**, **structuré** et **compréhensible**, en respectant les bonnes pratiques comme **SOLID**, **DRY**, et l’architecture logique.  
-Mon objectif est d’évoluer en continu, d’apprendre chaque jour et de partager des solutions fiables et élégantes.
+🎯 Full-Stack Developer passionate about creating well-structured, readable and maintainable mobile and web applications.
 
 ---
 
-## ⚙️ Compétences techniques
+## 💡 About Me
+
+I strive to produce **clean**, **structured** and **understandable** code, respecting best practices like **SOLID**, **DRY**, and logical architecture.  
+My goal is to continuously evolve, learn every day and share reliable and elegant solutions.
+
+---
+
+## ⚙️ Technical Skills
 
 <p align="left">
   <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
@@ -46,19 +46,18 @@ Mon objectif est d’évoluer en continu, d’apprendre chaque jour et de partag
   </a>
 </p>
 
+---
+
+## 🧠 My Priorities
+
+- Writing **readable and well-structured code**
+- Applying **scalable and maintainable** architectures
+- Being rigorous in **error handling and validations**
+- **Continuous learning** and staying technically up-to-date
 
 ---
 
-## 🧠 Mes priorités
-
-- Écrire du **code lisible et bien structuré**
-- Appliquer des architectures **scalables et maintenables**
-- Être rigoureux dans la **gestion des erreurs et validations**
-- **Apprendre en continu** et rester à jour techniquement
-
----
-
-## 🌍 Me retrouver ailleurs
+## 🌍 Find Me Elsewhere
 
 <p align="left">
   <a href="https://www.linkedin.com/in/faniriniaina-rakotomahenina-64453a318" target="_blank">
@@ -68,4 +67,4 @@ Mon objectif est d’évoluer en continu, d’apprendre chaque jour et de partag
 
 ---
 
-Merci d’avoir consulté mon profil ! N'hésite pas à me suivre, à regarder mes projets ou à me contacter pour échanger 👨‍💻
+Thanks for checking out my profile! Feel free to follow me, check out my projects or contact me to exchange 👨‍💻
